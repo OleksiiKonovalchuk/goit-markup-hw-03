@@ -169,10 +169,8 @@ color: var(--logo-main-color);
 .hero-btn:hover, .hero-btn:focus {
     background-color: #188CE8;
 }
-.bonuses {
-    
-}
 .h-bonuses {
+    font-size: 14px;
     line-height: 1.42;
     text-transform: uppercase;
 
@@ -186,7 +184,7 @@ color: var(--logo-main-color);
     margin-right: 30px;
 }
 .bonuses-item {
-    max-width: 270px;
+    width: 270px;
 }
 .descr-bonuses {
     line-height: 1.71;
